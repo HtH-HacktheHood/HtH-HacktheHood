@@ -17,6 +17,8 @@
 <!-- About The Company -->
 #### Hack the hood provides youth and communities of color with technology skill-building programs and career navigation support that are grounded in justice and ensure economic mobility. We affirm that “education is the practice of freedom” and is achieved through dialogue and the awakening of critical consciousness. At Hack the Hood our goal is to create a community of care that supports early-career Black, Latinx, AAPI, and Indigenous talent in their technology career journeys. We serve young people of color, ages 16-25, who are interested in pursuing tech-related careers, but who do not yet have access to the resources they need to succeed.
 
+#### Our programs' technical curriculum focuses on teaching participants foundational software engineering skills within the most popular programming languages and frameworks, like Python and Javascript. Grounded in justice, our curriculum is meant to provide an intentional and conscious introduction to challenges within the tech industry that Black and Brown learners are likely to encounter. It also helps them apply a social justice perspective to design, development and deconstruction of technical solutions and career pathways. This tech justice curricula is what makes Hack the Hood unique. The tech justice curriculum content provides an introduction to social justice topics that arise within the tech industry and positions learners to take informed action. 
+
 <!-- Languages and Tools -->
 <h2 align="left">Languages and Tools I've Used 💻</h2>
 <p align="left"> 
