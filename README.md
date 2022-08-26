@@ -14,19 +14,11 @@
 </a>
 </p>
 
-<!-- About Me -->
-```yaml
-name: Henry Bowe
-age: 25
-living_in: North Carolina
-from: Washington, D.C.
-job: Lead Technical Instructor and Curriculum Designer
-education: ["Bachelor's in Computer Science"]
-company: Hack the Hood
-fields_of_interests: ["Sports Analytics", "Sports Statistics", "Data Science", "Data Engineering", "Machine & Deep Learning", "Artificial Intelligence", "Big Data Analytics"]
-currently_learning: ["SQL"]
-hobbies: ["Playing Basketball", "Making Music", "Casual Gaming", "Watching Anime", "Reading Manga"]
-```
+<!-- About The Company -->
+<center>
+Hack the hood <b><span style="color:#ffbf35"> provides youth and communities of color </span></b>with <b><span style="color:#1fc585">tech skill-building programs </span></b> and <b><span style="color:#3b64a2"> career navigation support  </span></b>that are <b> <b><span style="color:#00b1d4">grounded in justice </span></b> and <b> <b><span style="color:#e4823b"> ensure economic mobility. </span></b>
+</b></b>
+</center>
 
 <!-- Languages and Tools -->
 <h2 align="left">Languages and Tools I've Used 💻</h2>
