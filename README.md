@@ -15,10 +15,7 @@
 </p>
 
 <!-- About The Company -->
-<center>
-Hack the hood <b><span style="color:#ffbf35"> provides youth and communities of color </span></b>with <b><span style="color:#1fc585">tech skill-building programs </span></b> and <b><span style="color:#3b64a2"> career navigation support  </span></b>that are <b> <b><span style="color:#00b1d4">grounded in justice </span></b> and <b> <b><span style="color:#e4823b"> ensure economic mobility. </span></b>
-</b></b>
-</center>
+# Hack the hood provides youth and communities of color with tech skill-building programs and career navigation support that are grounded in justice and ensure economic mobility. We affirm that “education is the practice of freedom” and is achieved through dialogue and the awakening of critical consciousness. At Hack the Hood our goal is to create a community of care that supports early-career Black, Latinx, AAPI, and Indigenous talent in their technology career journeys. One of the most powerful ways we do this is by matching our young people with mentors they can identify with and who can be a champion, coach, and trusted industry connection as they pursue their career journeys. 
 
 <!-- Languages and Tools -->
 <h2 align="left">Languages and Tools I've Used 💻</h2>
