@@ -33,8 +33,8 @@
   <img alt="Hustle Program" height=200 width=500 src="https://github.com/HtH-HacktheHood/HtH-HacktheHood/blob/main/Screen%20Shot%202022-08-26%20at%205.39.17%20PM.png"> <br> Hustle into tech with an introduction to foundational tech skills and career pathways at Hack the Hood.  </img>
 </a>
   <hr>
-<a href="https://medium.com/@henry.bowe.jr/heart-for-dart-170339cc4cc0">
-  <img alt="Medium Post" src="https://miro.medium.com/fit/c/224/224/1*1vDu57yFuzoYjvv74wjlig.jpeg"> <br> Heart for Dart </img>
+<a href="https://www.hackthehood.org/programs/#build">
+  <img alt="Build Program" height=200 width=500 src="https://github.com/HtH-HacktheHood/HtH-HacktheHood/blob/main/Screen%20Shot%202022-08-26%20at%205.39.17%20PM.png"> <br> Hustle into tech with an introduction to foundational tech skills and career pathways at Hack the Hood.  </img>
 </a>
   <hr>
 <a href="https://medium.com/@henry.bowe.jr/raising-a-developer-82a83d934dc">
