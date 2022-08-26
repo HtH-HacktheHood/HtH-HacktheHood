@@ -75,9 +75,9 @@
 
 <!-- Github Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hleejr&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Github Stats" />
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=hleejr&count_private&theme=highcontrast&hide_border=true" alt="Github Streaks" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hleejr&count_private=true&theme=tokyonight" alt="Github Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HtH-HacktheHood&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Github Stats" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=HtH-HacktheHood&count_private&theme=highcontrast&hide_border=true" alt="Github Streaks" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HtH-HacktheHood&count_private=true&theme=tokyonight" alt="Github Top Languages" />
 </p>
 
 <hr>
