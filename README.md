@@ -40,10 +40,7 @@
 <a href="https://www.hackthehood.org/programs/#drive">
   <img alt="Build Program" height=200 width=500 src="https://github.com/HtH-HacktheHood/HtH-HacktheHood/blob/main/Screen%20Shot%202022-08-26%20at%205.39.53%20PM.png"><br>Drive your career into tech! This exciting and intensive year-long program is designed to help you secure a certification or associate’s degree, get internship ready, and navigate your career pathway in tech.</img>
 </a>
-  <hr>
-
 <!-- Programs end -->
-
 </td>
   
 <td width="50%" valign="top">
@@ -52,19 +49,19 @@
 <h3 align="center"> Our Stories </h3>
   
 <a href="https://www.hackthehood.org/blog/alumni-success-stories-justincurry">
-  <img alt="Justin Curry" height=300 width=500 src="https://images.squarespace-cdn.com/content/v1/6160badf8352f03c5d30d34c/1655929998416-8HKD8ACOLOMYNBIAAQ54/JustinCurry.png"><br>Meet HtH Alum Justin Curry!</img>
+  <img alt="Justin Curry" height=300 width=600 src="https://images.squarespace-cdn.com/content/v1/6160badf8352f03c5d30d34c/1655929998416-8HKD8ACOLOMYNBIAAQ54/JustinCurry.png"><br>Meet HtH Alum Justin Curry!</img>
 </a>
   <br>
   <br>
   <br>
 <a href="https://www.hackthehood.org/blog/alumni-success-stories-ruqaiyah-angeles">
-  <img alt="Ruqaiyah Angeles" height=300 width=500 src="https://images.squarespace-cdn.com/content/v1/6160badf8352f03c5d30d34c/1652225053310-MBQSKKV28N2X6JUO3MIJ/AAPI+Month+%282%29.png"><br>Meet HtH Alum Ruqaiyah Angeles!</img>
+  <img alt="Ruqaiyah Angeles" height=300 width=600 src="https://images.squarespace-cdn.com/content/v1/6160badf8352f03c5d30d34c/1652225053310-MBQSKKV28N2X6JUO3MIJ/AAPI+Month+%282%29.png"><br>Meet HtH Alum Ruqaiyah Angeles!</img>
 </a>
   <br>
   <br>
   <br>
 <a href="https://www.hackthehood.org/blog/hack-the-hood-deepens-our-commitment-to-learners-long-term-success">
-  <img alt="Deeper Commitment" height=300 width=500 src="https://images.squarespace-cdn.com/content/v1/6160badf8352f03c5d30d34c/1649977308790-QXBTQP58KQCMMSGEU67L/Screen+Shot+2022-03-29+at+5.33.31+PM.png"><br>Deepening our Commitment to Learners' Long Term Success</img>
+  <img alt="Deeper Commitment" height=300 width=600 src="https://images.squarespace-cdn.com/content/v1/6160badf8352f03c5d30d34c/1649977308790-QXBTQP58KQCMMSGEU67L/Screen+Shot+2022-03-29+at+5.33.31+PM.png"><br>Deepening our Commitment to Learners' Long Term Success</img>
 </a>
 
 </td>
