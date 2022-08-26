@@ -21,73 +21,16 @@
 
 <hr>
 
-<!-- Languages and Tools -->
-<h2 align="left">Languages and Tools I've Used 💻</h2>
-<p align="left"> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.docker.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://golang.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-  </a>
-   <a href="https://www.w3.org/html/" target="_blank">
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a> 
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/27804?s=280&v=4" alt="django" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="AWS" width="60" height="45"/>
-  </a>
-</p>
-
-<!-- Funny GIF -->
-<p align="center">
-  <img height=300 width=100% src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-</p>
-
-<!-- Published Blog Post -->
+<!-- Program and Blog Info -->
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center"> My Medium Blog Posts </h3>
+<h3 align="center"> Program Offerings </h3>
 
-<!-- blog starts -->
-<a href="https://medium.com/@henry.bowe.jr/db-legends-bigquery-and-trees-603d1bd0138">
-  <img alt="Medium Post" src="https://miro.medium.com/fit/c/224/224/1*9AGZPcXMmBFbjOsCTouiGw.png"> <br> DB Legends, BigQuery, and Trees </img>
+<!-- Programs start -->
+<a href="https://www.hackthehood.org/programs/#hustle">
+  <img alt="Hustle Program" src=""> <br> Hustle into tech with an introduction to foundational tech skills and career pathways at Hack the Hood.  </img>
 </a>
   <hr>
 <a href="https://medium.com/@henry.bowe.jr/heart-for-dart-170339cc4cc0">
