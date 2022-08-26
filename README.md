@@ -30,15 +30,15 @@
 
 <!-- Programs start -->
 <a href="https://www.hackthehood.org/programs/#hustle">
-  <img alt="Hustle Program" height=200 width=500 src="https://github.com/HtH-HacktheHood/HtH-HacktheHood/blob/main/Screen%20Shot%202022-08-26%20at%205.39.17%20PM.png"> <br> Hustle into tech with an introduction to foundational tech skills and career pathways at Hack the Hood.</img>
+  <img alt="Hustle Program" height=200 width=500 src="https://github.com/HtH-HacktheHood/HtH-HacktheHood/blob/main/Screen%20Shot%202022-08-26%20at%205.39.17%20PM.png"><br>Hustle into tech with an introduction to foundational tech skills and career pathways at Hack the Hood.</img>
 </a>
   <hr>
 <a href="https://www.hackthehood.org/programs/#build">
-  <img alt="Build Program" height=200 width=500 src="https://github.com/HtH-HacktheHood/HtH-HacktheHood/blob/main/Screen%20Shot%202022-08-26%20at%205.39.39%20PM.png"> <br> Leverage your Python skills to learn about data science and how to identify, solve and answer problems using data and Build up your tech hustle!</img>
+  <img alt="Build Program" height=200 width=500 src="https://github.com/HtH-HacktheHood/HtH-HacktheHood/blob/main/Screen%20Shot%202022-08-26%20at%205.39.39%20PM.png"><br>Leverage your Python skills to learn about data science and how to identify, solve and answer problems using data and Build up your tech hustle!</img>
 </a>
   <hr>
 <a href="https://www.hackthehood.org/programs/#drive">
-  <img alt="Build Program" height=200 width=500 src="https://github.com/HtH-HacktheHood/HtH-HacktheHood/blob/main/Screen%20Shot%202022-08-26%20at%205.39.53%20PM.png"> <br> Drive your career into tech! This exciting and intensive year-long program is designed to help you secure a certification or associate’s degree, get internship ready, and navigate your career pathway in tech.</img>
+  <img alt="Build Program" height=200 width=500 src="https://github.com/HtH-HacktheHood/HtH-HacktheHood/blob/main/Screen%20Shot%202022-08-26%20at%205.39.53%20PM.png"><br>Drive your career into tech! This exciting and intensive year-long program is designed to help you secure a certification or associate’s degree, get internship ready, and navigate your career pathway in tech.</img>
 </a>
   <hr>
 
@@ -52,15 +52,15 @@
 <h3 align="center"> Our Stories </h3>
   
 <a href="https://www.hackthehood.org/blog/alumni-success-stories-justincurry">
-  <img alt="Justin Curry" height=200 width=500 src="https://images.squarespace-cdn.com/content/v1/6160badf8352f03c5d30d34c/1655929998416-8HKD8ACOLOMYNBIAAQ54/JustinCurry.png?format=1500w"> <br> Hustle into tech with an introduction to foundational tech skills and career pathways at Hack the Hood.</img>
+  <img alt="Justin Curry" height=200 width=500 src="https://images.squarespace-cdn.com/content/v1/6160badf8352f03c5d30d34c/1655929998416-8HKD8ACOLOMYNBIAAQ54/JustinCurry.png"><br>Meet HtH Alum Justin Curry!</img>
+</a>
+  <br>
+<a href="https://www.hackthehood.org/blog/alumni-success-stories-ruqaiyah-angeles">
+  <img alt="Ruqaiyah Angeles" height=200 width=500 src="https://images.squarespace-cdn.com/content/v1/6160badf8352f03c5d30d34c/1652225053310-MBQSKKV28N2X6JUO3MIJ/AAPI+Month+%282%29.png"><br>Meet HtH Alum Ruqaiyah Angeles!</img>
 </a>
   <hr>
-<a href="https://www.hackthehood.org/programs/#build">
-  <img alt="Build Program" height=200 width=500 src="https://github.com/HtH-HacktheHood/HtH-HacktheHood/blob/main/Screen%20Shot%202022-08-26%20at%205.39.39%20PM.png"> <br> Leverage your Python skills to learn about data science and how to identify, solve and answer problems using data and Build up your tech hustle!</img>
-</a>
-  <hr>
-<a href="https://www.hackthehood.org/programs/#drive">
-  <img alt="Build Program" height=200 width=500 src="https://github.com/HtH-HacktheHood/HtH-HacktheHood/blob/main/Screen%20Shot%202022-08-26%20at%205.39.53%20PM.png"> <br> Drive your career into tech! This exciting and intensive year-long program is designed to help you secure a certification or associate’s degree, get internship ready, and navigate your career pathway in tech.</img>
+<a href="https://www.hackthehood.org/blog/hack-the-hood-deepens-our-commitment-to-learners-long-term-success">
+  <img alt="Deeper Commitment" height=200 width=500 src="https://images.squarespace-cdn.com/content/v1/6160badf8352f03c5d30d34c/1649977308790-QXBTQP58KQCMMSGEU67L/Screen+Shot+2022-03-29+at+5.33.31+PM.png"><br>Deepening our Commitment to Learners' Long Term Success</img>
 </a>
   <hr>
 
