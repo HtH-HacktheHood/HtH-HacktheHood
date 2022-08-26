@@ -1,5 +1,5 @@
 <!-- Welcoming -->
-![](https://github.com/mscoutermarsh/mscoutermarsh/blob/master/Enter_Mike.gif?raw=true)
+![](https://github.com/HtH-HacktheHood/HtH-HacktheHood/blob/main/Screen%20Shot%202022-08-26%20at%204.59.37%20PM.png?raw=true)
 
 <!-- Social Links -->
 <p align="center">
