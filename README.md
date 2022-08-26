@@ -1,6 +1,5 @@
 <!-- Welcoming -->
-<h1 align="center">
-  <img src="" /></h1>
+![](https://github.com/mscoutermarsh/mscoutermarsh/blob/master/Enter_Mike.gif?raw=true)
 
 <!-- Social Links -->
 <p align="center">
