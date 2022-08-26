@@ -82,10 +82,6 @@
 
 <hr>
 
-[<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/linktree.svg" />][linktree]
-     
-[linktree]: https://linktr.ee/knowbodyknows
-
 <!--
 **hleejr/hleejr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
