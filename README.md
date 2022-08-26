@@ -72,6 +72,7 @@
 </tr>
 
 </table>
+<hr>
 
 <!-- Github Stats -->
 <p align="center">
