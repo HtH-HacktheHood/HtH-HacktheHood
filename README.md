@@ -19,6 +19,8 @@
 
 #### Our programs' technical curriculum focuses on teaching participants foundational software engineering skills within the most popular programming languages and frameworks, like Python and Javascript. Grounded in justice, our curriculum is meant to provide an intentional and conscious introduction to challenges within the tech industry that Black and Brown learners are likely to encounter. It also helps them apply a social justice perspective to design, development and deconstruction of technical solutions and career pathways. This tech justice curricula is what makes Hack the Hood unique. The tech justice curriculum content provides an introduction to social justice topics that arise within the tech industry and positions learners to take informed action. 
 
+<hr>
+
 <!-- Languages and Tools -->
 <h2 align="left">Languages and Tools I've Used 💻</h2>
 <p align="left"> 
