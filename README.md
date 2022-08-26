@@ -34,20 +34,13 @@
 </a>
   <hr>
 <a href="https://www.hackthehood.org/programs/#build">
-  <img alt="Build Program" height=200 width=500 src="https://github.com/HtH-HacktheHood/HtH-HacktheHood/blob/main/Screen%20Shot%202022-08-26%20at%205.39.17%20PM.png"> <br> Hustle into tech with an introduction to foundational tech skills and career pathways at Hack the Hood.  </img>
+  <img alt="Build Program" height=200 width=500 src="https://github.com/HtH-HacktheHood/HtH-HacktheHood/blob/main/Screen%20Shot%202022-08-26%20at%205.39.39%20PM.png"> <br> Leverage your Python skills to learn about data science and how to identify, solve and answer problems using data and Build up your tech hustle!  </img>
 </a>
   <hr>
-<a href="https://medium.com/@henry.bowe.jr/raising-a-developer-82a83d934dc">
-  <img alt="Medium Post" src="https://miro.medium.com/max/480/1*WhhfONG-5fx-WgB8lMNGTw.jpeg"> <br> Raising a Developer </img>
+<a href="https://www.hackthehood.org/programs/#drive">
+  <img alt="Build Program" height=200 width=500 src="https://github.com/HtH-HacktheHood/HtH-HacktheHood/blob/main/Screen%20Shot%202022-08-26%20at%205.39.39%20PM.png"> <br> Leverage your Python skills to learn about data science and how to identify, solve and answer problems using data and Build up your tech hustle!  </img>
 </a>
   <hr>
-<a href="https://medium.com/@henry.bowe.jr/understanding-web-storage-f6a96a0053f4">
-  <img alt="Medium Post" src="https://miro.medium.com/fit/c/224/224/1*Ffoy2P9pX_GLyXWaPu210A.png"> <br> Understanding Web Storage </img>
-</a>
-  <hr>
-<a href="https://medium.com/@henry.bowe.jr/domain-philanthropy-fc5390bbbad7">
-  <img alt="Medium Post" src="https://miro.medium.com/fit/c/224/224/1*EUT0sBYUopYJjpaSx-Vgqg.png"> <br> Pass the Aux! </img>
-</a>
 
 <!-- blog ends -->
 
