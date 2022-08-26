@@ -30,7 +30,7 @@
 
 <!-- Programs start -->
 <a href="https://www.hackthehood.org/programs/#hustle">
-  <img alt="Hustle Program" src=""> <br> Hustle into tech with an introduction to foundational tech skills and career pathways at Hack the Hood.  </img>
+  <img alt="Hustle Program" src="https://github.com/HtH-HacktheHood/HtH-HacktheHood/blob/main/Screen%20Shot%202022-08-26%20at%205.39.17%20PM.png"> <br> Hustle into tech with an introduction to foundational tech skills and career pathways at Hack the Hood.  </img>
 </a>
   <hr>
 <a href="https://medium.com/@henry.bowe.jr/heart-for-dart-170339cc4cc0">
