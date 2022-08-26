@@ -30,15 +30,15 @@
 
 <!-- Programs start -->
 <a href="https://www.hackthehood.org/programs/#hustle">
-  <img alt="Hustle Program" height=200 width=500 src="https://github.com/HtH-HacktheHood/HtH-HacktheHood/blob/main/Screen%20Shot%202022-08-26%20at%205.39.17%20PM.png"> <br> Hustle into tech with an introduction to foundational tech skills and career pathways at Hack the Hood.  </img>
+  <img alt="Hustle Program" height=200 width=500 src="https://github.com/HtH-HacktheHood/HtH-HacktheHood/blob/main/Screen%20Shot%202022-08-26%20at%205.39.17%20PM.png"> <br> Hustle into tech with an introduction to foundational tech skills and career pathways at Hack the Hood.</img>
 </a>
   <hr>
 <a href="https://www.hackthehood.org/programs/#build">
-  <img alt="Build Program" height=200 width=500 src="https://github.com/HtH-HacktheHood/HtH-HacktheHood/blob/main/Screen%20Shot%202022-08-26%20at%205.39.39%20PM.png"> <br> Leverage your Python skills to learn about data science and how to identify, solve and answer problems using data and Build up your tech hustle!  </img>
+  <img alt="Build Program" height=200 width=500 src="https://github.com/HtH-HacktheHood/HtH-HacktheHood/blob/main/Screen%20Shot%202022-08-26%20at%205.39.39%20PM.png"> <br> Leverage your Python skills to learn about data science and how to identify, solve and answer problems using data and Build up your tech hustle!</img>
 </a>
   <hr>
 <a href="https://www.hackthehood.org/programs/#drive">
-  <img alt="Build Program" height=200 width=500 src="https://github.com/HtH-HacktheHood/HtH-HacktheHood/blob/main/Screen%20Shot%202022-08-26%20at%205.39.39%20PM.png"> <br> Leverage your Python skills to learn about data science and how to identify, solve and answer problems using data and Build up your tech hustle!  </img>
+  <img alt="Build Program" height=200 width=500 src="https://github.com/HtH-HacktheHood/HtH-HacktheHood/blob/main/Screen%20Shot%202022-08-26%20at%205.39.53%20PM.png"> <br> Drive your career into tech! This exciting and intensive year-long program is designed to help you secure a certification or associate’s degree, get internship ready, and navigate your career pathway in tech.</img>
 </a>
   <hr>
 
