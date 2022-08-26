@@ -42,30 +42,39 @@
 </a>
   <hr>
 
-<!-- blog ends -->
+<!-- Programs end -->
 
 </td>
-     
+  
 <td width="50%" valign="top">
 
-<h3 align="center"> Github Statistics </h3>
+<!-- Blogs Start -->
+<h3 align="center"> Our Stories </h3>
   
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hleejr&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Github Stats" />
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=hleejr&count_private&theme=highcontrast&hide_border=true" alt="Github Streaks" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hleejr&count_private=true&theme=tokyonight" alt="Github Top Languages" />
-</p>
-  
-<h3 align="center"> Open Source Projects </h3>
-     
-| Project Name | Description |
-| ------------ | ----------- |
-| Sports Data & Artificial Intelligence: Predicting Hall of Famers | Coming Soon!
+<a href="https://www.hackthehood.org/blog/alumni-success-stories-justincurry">
+  <img alt="Justin Curry" height=200 width=500 src="https://images.squarespace-cdn.com/content/v1/6160badf8352f03c5d30d34c/1655929998416-8HKD8ACOLOMYNBIAAQ54/JustinCurry.png?format=1500w"> <br> Hustle into tech with an introduction to foundational tech skills and career pathways at Hack the Hood.</img>
+</a>
+  <hr>
+<a href="https://www.hackthehood.org/programs/#build">
+  <img alt="Build Program" height=200 width=500 src="https://github.com/HtH-HacktheHood/HtH-HacktheHood/blob/main/Screen%20Shot%202022-08-26%20at%205.39.39%20PM.png"> <br> Leverage your Python skills to learn about data science and how to identify, solve and answer problems using data and Build up your tech hustle!</img>
+</a>
+  <hr>
+<a href="https://www.hackthehood.org/programs/#drive">
+  <img alt="Build Program" height=200 width=500 src="https://github.com/HtH-HacktheHood/HtH-HacktheHood/blob/main/Screen%20Shot%202022-08-26%20at%205.39.53%20PM.png"> <br> Drive your career into tech! This exciting and intensive year-long program is designed to help you secure a certification or associate’s degree, get internship ready, and navigate your career pathway in tech.</img>
+</a>
+  <hr>
 
 </td>
 </tr>
 
 </table>
+
+<!-- Github Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hleejr&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Github Stats" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=hleejr&count_private&theme=highcontrast&hide_border=true" alt="Github Streaks" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hleejr&count_private=true&theme=tokyonight" alt="Github Top Languages" />
+</p>
 
 <hr>
 
